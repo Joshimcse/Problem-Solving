@@ -3,7 +3,7 @@ int main() {
     int alc = 0, gas = 0, die = 0, N;
     
     while (scanf("%d", &N) == 1 && N != 4) {
-        switch (N) {
+        switch(N) {
         case 1:
             alc++;
             break;
