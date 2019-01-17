@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
     int time, av_speed;
     //  using this car that does 12 Km/L
